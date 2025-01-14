@@ -1,2 +1,1 @@
-# binary
-Mi primer currículum web
+ Hocus-pocus! 
